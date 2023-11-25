@@ -1,0 +1,1 @@
+### Toto je aplikace pro finální projekt COMO Python ###
