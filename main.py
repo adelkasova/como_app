@@ -25,17 +25,7 @@ if "prihlasen" not in st.session_state:
 if "jmeno" not in st.session_state:
     st.session_state["jmeno"] = None
 
-#nastavení toogle na střed
-st.markdown("""<style>
-            
-	    .st-bi {
-        user-select: none;
-        position: absolute;
-        top: 50%;
-        left: 50%;
-        }
-</style>
-            """, unsafe_allow_html=True)
+
 
 #Nadpsi na střed
 st.markdown(
